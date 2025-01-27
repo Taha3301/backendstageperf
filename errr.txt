@@ -1,0 +1,36 @@
+Missing required fields: domaine_id[27-Jan-2025 00:51:48 UTC] 
+[27-Jan-2025 00:51:48 UTC] Array
+(
+    [user_id] => 76e1
+    [offre_id] => 2
+    [offre_name] => Développeur Backend
+)
+
+[27-Jan-2025 00:51:48 UTC] User ID found: 76e1
+[27-Jan-2025 00:52:07 UTC] 
+[27-Jan-2025 00:52:07 UTC] Array
+(
+    [user_id] => 1
+    [offre_id] => 2
+    [offre_name] => Développeur Backend
+)
+
+[27-Jan-2025 00:52:07 UTC] User ID found: 1
+[27-Jan-2025 00:52:50 UTC] 
+[27-Jan-2025 00:52:50 UTC] Array
+(
+    [user_id] => 6796d8d341e61
+    [offre_id] => 2
+    [offre_name] => Développeur Backend
+)
+
+[27-Jan-2025 00:52:50 UTC] User ID found: 6796d8d341e61
+[27-Jan-2025 00:53:08 UTC] 
+[27-Jan-2025 00:53:08 UTC] Array
+(
+    [user_id] => 6796d8d341e61
+    [offre_id] => 1
+    [offre_name] => Développeur Frontend
+)
+
+[27-Jan-2025 00:53:08 UTC] User ID found: 6796d8d341e61

@@ -1,0 +1,50 @@
+[29-Jan-2025 17:34:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'job_portal.useroffres' doesn't exist in F:\laragon\www\offre\offreusers.php:78
+Stack trace:
+#0 F:\laragon\www\offre\offreusers.php(78): mysqli->prepare('DELETE FROM use...')
+#1 {main}
+  thrown in F:\laragon\www\offre\offreusers.php on line 78
+[29-Jan-2025 17:39:37 UTC] 
+[29-Jan-2025 17:39:37 UTC] Array
+(
+    [user_id] => 76e1
+    [offre_id] => 15
+    [offre_name] => testagain
+)
+
+[29-Jan-2025 17:39:37 UTC] User ID found: 76e1
+[29-Jan-2025 17:41:20 UTC] 
+[29-Jan-2025 17:41:20 UTC] Array
+(
+    [user_id] => 76e1
+    [offre_id] => 15
+    [offre_name] => testagain
+)
+
+[29-Jan-2025 17:41:20 UTC] User ID found: 76e1
+[29-Jan-2025 17:41:42 UTC] 
+[29-Jan-2025 17:41:42 UTC] Array
+(
+    [user_id] => 1
+    [offre_id] => 15
+    [offre_name] => testagain
+)
+
+[29-Jan-2025 17:41:42 UTC] User ID found: 1
+[29-Jan-2025 17:43:45 UTC] 
+[29-Jan-2025 17:43:45 UTC] Array
+(
+    [user_id] => 1
+    [offre_id] => 15
+    [offre_name] => testagain
+)
+
+[29-Jan-2025 17:43:45 UTC] User ID found: 1
+[29-Jan-2025 23:01:14 UTC] 
+[29-Jan-2025 23:01:14 UTC] Array
+(
+    [user_id] => 1
+    [offre_id] => 2
+    [offre_name] => Développeur Backend
+)
+
+[29-Jan-2025 23:01:14 UTC] User ID found: 1
